@@ -1,0 +1,4 @@
+authentication/.env
+authentcation/env
+authentication/__pycache__
+frontend/node_modules
